@@ -31,3 +31,18 @@ The ANPR system follows the following steps:
    - **EasyOCR**: A library for text recognition that directly extracts text from segmented characters.
    - **Convolutional Neural Network (CNN)**: A custom CNN model is trained on a dataset of character images to predict the characters with potentially higher accuracy.
 
+
+## Future Plans
+
+- Expand the project to support ANPR from video data, enabling real-time license plate detection for moving vehicles.
+- Implement algorithms for object tracking and frame-by-frame analysis.
+- Integrate with existing traffic management systems for automatic detection of traffic violations, such as speeding or running red lights.
+- Incorporate machine learning models trained on diverse datasets to improve accuracy and robustness in challenging conditions.
+- Market the system as a comprehensive surveillance solution for traffic management and law enforcement.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
