@@ -8,7 +8,6 @@ This project aims to develop an Automatic Number Plate Recognition (ANPR) system
 
 - Raveesh R
 - Akshay S.G
-- Samyuktha S
 
 
 ## Dataset
